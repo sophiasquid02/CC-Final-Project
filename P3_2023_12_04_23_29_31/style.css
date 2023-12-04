@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.bottom-buttons{
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #FF9800;
+  display: grid;
+  grid-template-columns: 50%  50%;
+}
+
+.controls {
+  margin: auto;
+  border: 5px solid #2196F3;
+  justify: center;
+  display: grid;
+  grid-template-columns: 13%  20%;
+  
+}
+
+.change {
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #E91E63;
+  
+}
