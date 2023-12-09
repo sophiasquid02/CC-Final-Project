@@ -1,1 +1,1 @@
-# CC-Final-Project
+Drawing Machine for my Creative Code class.
